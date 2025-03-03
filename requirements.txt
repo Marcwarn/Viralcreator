@@ -3,3 +3,4 @@ joblib
 scikit-learn
 numpy
 pandas
+scikit-learn==1.2.2
